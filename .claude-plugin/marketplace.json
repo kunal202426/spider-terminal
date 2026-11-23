@@ -1,0 +1,15 @@
+{
+  "name": "spider-terminal",
+  "owner": {
+    "name": "kunal202426"
+  },
+  "metadata": {
+    "description": "A dark pixel spider and terminal theme for the Claude desktop app."
+  },
+  "plugins": [
+    {
+      "name": "spider-terminal",
+      "source": "./"
+    }
+  ]
+}
